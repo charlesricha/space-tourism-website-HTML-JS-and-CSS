@@ -16,6 +16,10 @@
     .hamburger{
         display: block;
     }
+  #navbar{
+        display: none;
+    }
+   
    
    #navbar a {
     margin-left:0;
